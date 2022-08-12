@@ -1,0 +1,17 @@
+C:\Users\Maicol\source\repos\DigitalWare\DigitalWare.DATA\bin\Debug\net6.0\DigitalWare.DATA.deps.json
+C:\Users\Maicol\source\repos\DigitalWare\DigitalWare.DATA\bin\Debug\net6.0\DigitalWare.DATA.runtimeconfig.json
+C:\Users\Maicol\source\repos\DigitalWare\DigitalWare.DATA\bin\Debug\net6.0\DigitalWare.DATA.dll
+C:\Users\Maicol\source\repos\DigitalWare\DigitalWare.DATA\bin\Debug\net6.0\DigitalWare.DATA.pdb
+C:\Users\Maicol\source\repos\DigitalWare\DigitalWare.DATA\bin\Debug\net6.0\DigitalWare.MODELS.dll
+C:\Users\Maicol\source\repos\DigitalWare\DigitalWare.DATA\bin\Debug\net6.0\DigitalWare.MODELS.pdb
+C:\Users\Maicol\source\repos\DigitalWare\DigitalWare.DATA\obj\Debug\net6.0\DigitalWare.DATA.csproj.AssemblyReference.cache
+C:\Users\Maicol\source\repos\DigitalWare\DigitalWare.DATA\obj\Debug\net6.0\DigitalWare.DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicol\source\repos\DigitalWare\DigitalWare.DATA\obj\Debug\net6.0\DigitalWare.DATA.AssemblyInfoInputs.cache
+C:\Users\Maicol\source\repos\DigitalWare\DigitalWare.DATA\obj\Debug\net6.0\DigitalWare.DATA.AssemblyInfo.cs
+C:\Users\Maicol\source\repos\DigitalWare\DigitalWare.DATA\obj\Debug\net6.0\DigitalWare.DATA.csproj.CoreCompileInputs.cache
+C:\Users\Maicol\source\repos\DigitalWare\DigitalWare.DATA\obj\Debug\net6.0\DigitalWare.DATA.csproj.CopyComplete
+C:\Users\Maicol\source\repos\DigitalWare\DigitalWare.DATA\obj\Debug\net6.0\DigitalWare.DATA.dll
+C:\Users\Maicol\source\repos\DigitalWare\DigitalWare.DATA\obj\Debug\net6.0\refint\DigitalWare.DATA.dll
+C:\Users\Maicol\source\repos\DigitalWare\DigitalWare.DATA\obj\Debug\net6.0\DigitalWare.DATA.pdb
+C:\Users\Maicol\source\repos\DigitalWare\DigitalWare.DATA\obj\Debug\net6.0\DigitalWare.DATA.genruntimeconfig.cache
+C:\Users\Maicol\source\repos\DigitalWare\DigitalWare.DATA\obj\Debug\net6.0\ref\DigitalWare.DATA.dll

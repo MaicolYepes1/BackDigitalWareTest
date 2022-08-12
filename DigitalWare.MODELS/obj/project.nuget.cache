@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pJXM77A6i8WIlzRIgF4wUHVJNSnh2/acrfDqXVF2LxgVb1J88qNI6gqk8f1O4iGmJwAtaItWHKzXvTqOnkJQwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maicol\\source\\repos\\DigitalWare\\DigitalWare.MODELS\\DigitalWare.MODELS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maicol\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Maicol\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
